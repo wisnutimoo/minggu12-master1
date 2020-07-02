@@ -1,2 +1,1 @@
-# minggu12-master
- 
+# minggu12
